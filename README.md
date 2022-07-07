@@ -1,4 +1,4 @@
-# algorithm_c
+# 알고리즘 스터디
 👉자료구조
 1. [재귀](./recursion_c_file/재귀파일목록.md)
 
