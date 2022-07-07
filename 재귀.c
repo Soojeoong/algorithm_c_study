@@ -1,4 +1,4 @@
-//팩토리얼 재귀
+//팩토리얼 재귀 !
 int factorial(int n) {
 	if (n <= 1)
 		return 1;
