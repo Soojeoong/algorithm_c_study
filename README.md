@@ -4,4 +4,9 @@
 
 2. [배열](./array_c_file/배열목록.md)
 
+3. [스택](./stack_file/스택목록.md)
+
+4. 큐
+
+
 🙍‍♀️러닝메이트 : [HeoJiye](https://github.com/HeoJiye/Java_study)(사용언어 : java)
