@@ -8,11 +8,11 @@
 
 4. [큐](./queue_file/큐.md)
 
-5. 연결리스트 1
+5. [연결리스트 1](./linkedlist_file/연결리스트1.md)
 
-6. 연결리스트 2
+6. [연결리스트 2](./linkedlist_file/연결리스트2.md)
 
-7. 트리
+7. [트리](./tree_file/트리.md)
 
 8. 우선순위 큐
 
