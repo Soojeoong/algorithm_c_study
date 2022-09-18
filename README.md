@@ -14,13 +14,13 @@
 
 7. [트리](./tree_file/트리.md)
 
-8. 우선순위 큐
+8. [우선순위 큐](./priority_queue_file/priority_queue.md)
 
 9. 그래프 1
 
 10. 그래프 2
 
-11. 정렬
+11. [정렬](./sorting_file/정렬.md)
 
 12. 탐색
 
