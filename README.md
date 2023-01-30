@@ -16,15 +16,8 @@
 
 8. [우선순위 큐](./priority_queue_file/priority_queue.md)
 
-9. 그래프 1
+9. [정렬](./sorting_file/정렬.md)
 
-10. 그래프 2
-
-11. [정렬](./sorting_file/정렬.md)
-
-12. 탐색
-
-13. 해싱
 
 
 🙍‍♀️러닝메이트 : [HeoJiye](https://github.com/HeoJiye/Java_study)(사용언어 : java)
